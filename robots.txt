@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bruogn.github.io/sitemap/sitemap.ciz.gz
